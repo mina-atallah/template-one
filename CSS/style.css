@@ -155,7 +155,7 @@ font-family: 'Work Sans', sans-serif;
 /* end header  */
 /* start landing section */
 .landing{
-    background-image: url(../Images/mountain.jpg);
+    background-image: url(../images/mountain.jpg);
     background-size: cover;
     height:calc( 100vh - 64px );
     position: relative;
