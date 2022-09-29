@@ -9,4 +9,4 @@
 - CSS
 
 ### Page
-[Leon - Template](https://mina-atallah.github.io/Template-One/)
+[Leon - Template](https://mina-atallah.github.io/template-one/)
